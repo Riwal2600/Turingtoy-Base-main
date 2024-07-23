@@ -71,3 +71,4 @@ def run_turing_machine(
 
     return ''.join(ruban).strip(vide), historique, etat in etats_finaux
 
+# test
